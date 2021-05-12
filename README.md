@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python Data analysis
 - 🌱 I’m currently learning Python, SQL and Tableau
 - 💞️ I’m looking to collaborate on Any Data Analysis Projects based on SQL and Python
--
 
 <!---
 Ishannatu611/Ishannatu611 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
