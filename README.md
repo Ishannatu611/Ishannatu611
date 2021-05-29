@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ishannatu611
 - 👀 I’m interested in Python Data analysis
 - 🌱 I’m currently learning Python, SQL and Tableau
+- I'm interested in algo trading using Pandas, Numpy, mmatplotlib
 - 💞️ I’m looking to collaborate on Any Data Analysis Projects based on SQL and Python
 
 <!---
